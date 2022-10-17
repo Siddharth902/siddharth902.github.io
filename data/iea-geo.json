@@ -1,0 +1,1502 @@
+[
+    {
+        "region": "AU",
+        "unit": "sales",
+        "value": 20700,
+        "value_str": 20700
+    },
+    {
+        "region": "BE",
+        "unit": "sales",
+        "value": 71489,
+        "value_str": 71489
+    },
+    {
+        "region": "BR",
+        "unit": "sales",
+        "value": 7254,
+        "value_str": 7254
+    },
+    {
+        "region": "CA",
+        "unit": "sales",
+        "value": 93152,
+        "value_str": 93152
+    },
+    {
+        "region": "CL",
+        "unit": "sales",
+        "value": 566,
+        "value_str": 566
+    },
+    {
+        "region": "CN",
+        "unit": "sales",
+        "value": 3519052,
+        "value_str": 3519052
+    },
+    {
+        "region": "DK",
+        "unit": "sales",
+        "value": 67675,
+        "value_str": 67675
+    },
+    {
+        "region": "FI",
+        "unit": "sales",
+        "value": 30885,
+        "value_str": 30885
+    },
+    {
+        "region": "FR",
+        "unit": "sales",
+        "value": 322043,
+        "value_str": 322043
+    },
+    {
+        "region": "DE",
+        "unit": "sales",
+        "value": 695657,
+        "value_str": 695657
+    },
+    {
+        "region": "GR",
+        "unit": "sales",
+        "value": 7067,
+        "value_str": 7067
+    },
+    {
+        "region": "IS",
+        "unit": "sales",
+        "value": 9150,
+        "value_str": 9150
+    },
+    {
+        "region": "IN",
+        "unit": "sales",
+        "value": 11739,
+        "value_str": 11739
+    },
+    {
+        "region": "IT",
+        "unit": "sales",
+        "value": 141615,
+        "value_str": 141615
+    },
+    {
+        "region": "JP",
+        "unit": "sales",
+        "value": 45183,
+        "value_str": 45183
+    },
+    {
+        "region": "KR",
+        "unit": "sales",
+        "value": 119402,
+        "value_str": 119402
+    },
+    {
+        "region": "MX",
+        "unit": "sales",
+        "value": 4290,
+        "value_str": 4290
+    },
+    {
+        "region": "NL",
+        "unit": "sales",
+        "value": 97282,
+        "value_str": 97282
+    },
+    {
+        "region": "NZ",
+        "unit": "sales",
+        "value": 10574,
+        "value_str": 10574
+    },
+    {
+        "region": "NO",
+        "unit": "sales",
+        "value": 153699,
+        "value_str": 153699
+    },
+    {
+        "region": "PL",
+        "unit": "sales",
+        "value": 18907,
+        "value_str": 18907
+    },
+    {
+        "region": "PT",
+        "unit": "sales",
+        "value": 29568,
+        "value_str": 29568
+    },
+    {
+        "region": "ZA",
+        "unit": "sales",
+        "value": 269,
+        "value_str": 269
+    },
+    {
+        "region": "ES",
+        "unit": "sales",
+        "value": 70276,
+        "value_str": 70276
+    },
+    {
+        "region": "SE",
+        "unit": "sales",
+        "value": 138771,
+        "value_str": 138771
+    },
+    {
+        "region": "GB",
+        "unit": "sales",
+        "value": 326990,
+        "value_str": 326990
+    },
+    {
+        "region": "US",
+        "unit": "sales",
+        "value": 631152,
+        "value_str": 631152
+    },
+    {
+        "region": "AF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AX",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AL",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "DZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AD",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AQ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BD",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BB",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BJ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BQ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BV",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "IO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "UM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "VG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "VI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CV",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TD",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CX",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CD",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "HR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "DJ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "DM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "DO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "EC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "EG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SV",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GQ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ER",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "EE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ET",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "FK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "FO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "FJ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GL",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GD",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GP",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "HT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "HM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "VA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "HN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "HK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "HU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ID",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "IR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "IQ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "IE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "IM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "IL",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "JM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "JE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "JO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LV",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LB",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MV",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ML",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MQ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "YT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "FM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MD",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ME",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NP",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "NF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KP",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MP",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "OM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "QA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "XK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "RE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "RO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "RU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "RW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "BL",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "KN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "MF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "PM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "VC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "WS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ST",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "RS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SL",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SX",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SI",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SB",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "GS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SS",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "LK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SD",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SJ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "CH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "SY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TJ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TL",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TK",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TO",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TT",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TR",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TC",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "TV",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "UG",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "UA",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "AE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "UY",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "UZ",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "VU",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "VE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "VN",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "WF",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "EH",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "YE",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ZM",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    },
+    {
+        "region": "ZW",
+        "unit": "sales",
+        "value": 0,
+        "value_str": "Null"
+    }
+]

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <link rel="stylesheet" href="style.css">
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>32014252 - Data Viz 2</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+    integrity="sha256-IUOUHAPazai08QFs7W4MbzTlwEWFo7z/4zw8YmxEiko=" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+  <main class="hero">
+    <h1>Saving<br />
+      <div class="earth">Earth</div>
+    </h1>
+    <h3>A look at our world and the importance of EVs [Electric Vehicles]</h3>
+    <h4>Siddharth R. Jadli</h4>
+  </main>
+
+
+  <div class="row second fact">
+    <div class="col-md-6">
+      <img class="side-img"
+        src="https://images.unsplash.com/photo-1519664431206-c55eef4f047b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGVsZWN0cmljJTIwdmVoaWNsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60">
+    </div>
+    <div class="col-md-6">
+      <h3><i class="fa-solid fa-skull-crossbones"></i></h3>
+      <h1>Earth's temperature is rising at alarming levels</h1>
+      <div class="chart-wrapper" id="temp"></div>
+      <h6>Source: NASA</h6>
+      <div class="text-small">
+        <i class="fa-solid fa-circle-info"></i> Relative Temperature refers to NASA’s 1951-1980 baseline temperature.
+      </div>
+      <div class = "sos">
+      </div>
+        <h3 class="jfc">
+          Earth’s temperature has been <span class="red">rising</span> by 0.14° Fahrenheit (0.08° Celsius) per decade since 1880, but the rate of
+          warming since 1981 is <span class="orange">more than twice</span> that: 0.32° F (0.18° C) per decade.
+          <br><br>
+          2021 was the <span class="yellow">sixth-warmest year</span> on record based on NOAA’s temperature data.
+          <br><br>
+          The reasons for this global warming is because of the harmful chemicals that are produced as a biproduct of human activities 
+        </h3>
+    </div>
+  </div>
+
+
+  <div class="row fact3">
+    <div class="col-md-6">
+      <h3><i class="fa-solid fa-car"></i></h3>
+      <h1>A major contributor: Vehicles. Solution: Electric Vehicles</h1>
+      <div class = "sos1">
+      </div>
+      <h5 class="jfc">
+        Cars produce many harmful emmisions such as - nitrogen dioxide, carbon monoxide, hydrocarbons, benzene, and formaldehyde.
+        <br>
+        They also produce Carbon dioxide which is the main culprit of global warming
+      </h5>
+      <h5>
+        As of 2022, there are about <span class="bold-red">1.446 billion</span> cars in the world
+      </h5>
+      <h5 class="jfc">
+        An alternate to these vehicles run on "fossil fuels" are Electric Vehicles
+        <br>
+        They are environment friendly and there has been a lot of innovation in the field of EV, which mixed with great marketing and 
+        a generation that is gradually getting more and more environmentally cautious, there has been an great <span class="blue">increase</span> in the marketshare 
+        of electric vehicles
+      </h5>
+      <div class = "sos1">
+      </div>
+      <div class="chart-wrapper" id="sales-perct"></div>
+      <h6>Source: IEA</h6>
+    </div>
+    <div class="col-md-6">
+      <img class="side-img"
+        src="https://images.unsplash.com/photo-1620891549027-942fdc95d3f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGVzbGF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60">
+    </div>
+
+  </div>
+
+
+  <div class="row fact">
+    <div class="col-md-6">
+      <div class="chart-wrapper" id="types"></div>
+      <h6>Source: IEA</h6>
+      <div class="chart-wrapper" id="sales"></div>
+      <h6 div class="sos2">Source: IEA</h6>
+      <div class="sos"></div>
+      <div class="chart-wrapper2" id="countries"></div>
+      <h6 class="chart-wrapper2">Source: IEA<br><div class="text-small">Data not available for some countries are represented as nulls</div></h6>
+    </div>
+    <div class="col-md-6">
+      <h1>Just a beginning...</h1>
+      <h5 class="jfc">
+        Although there has been a twofold growth in the sales of EVs, they still have a very small share in
+        comparison to the total marketshare but the growing popularity, environmental awareness, marketing 
+        can lead to the growth getting further accelarated. <br><br>
+
+        We can see the most EVs sold were vehicles and other types appear miniscule in terms of sales. This can be due 
+        to the LMV sector slowly and steadily becoming mainstream, especially with the advances of prominent names like 
+        <span class="tesla">Tesla</span> <br><br>
+
+        We can see that there is still a lot of innovation pending in this industy, by looking at the Battery operated (BEV) 
+        and Plug-In Hybrid (PHEV) powertrains, we can see how there is a demand for EVs. Other types of EVs such as <span class="red">Trucks</span>, 
+        <span class="something">Vans</span> and <span class="blue">Buses</span> are yet to evolve into the market. <br><br>
+
+        Only developed countries have experienced the wave of EVs, but all the other countries are yet to feel the hit. As various
+        countries start developing further and with advancement in EV production and technology, the affordability of an EV become better, 
+        we could expect the market to widen up and EV taking a big chunk of the market share away, as fossil fuels are depleting and becoming
+        more and more expensive every day
+      </h5>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha256-xLI5SjD6DkojxrMIVBNT4ghypv12Xtj7cOa0AgKd6wA=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/js/all.min.js"
+    integrity="sha256-anaeGLBoWXUeqiJZBEpv92493NZXKlFtjOOi17jHU44=" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
